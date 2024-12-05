@@ -1,0 +1,3 @@
+/home/manakalala/workspace/3150-honors-project/to_do_list/build/CMakeFiles/ToDoList.dir
+/home/manakalala/workspace/3150-honors-project/to_do_list/build/CMakeFiles/edit_cache.dir
+/home/manakalala/workspace/3150-honors-project/to_do_list/build/CMakeFiles/rebuild_cache.dir
